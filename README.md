@@ -7,6 +7,7 @@
 
 # 💻 Tech Stack:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+![Autocad Mechanical]
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ch2722&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ch2722&theme=dark&hide_border=false)<br/>
